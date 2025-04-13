@@ -1,6 +1,6 @@
-### Key Features
-- Allows processing Internet Control Message Protocol (ICMP) packets, essential for traceroute operations.
-- Organized into separate files:
+## Traceroute
+Allows processing Internet Control Message Protocol (ICMP) packets, essential for traceroute operations.
+Organized into separate files:
   - ICMP utilities (`icmp_utils.cpp` and `icmp_utils.h`),
   - traceroute-specific utilities (`traceroute_utils.cpp` and `traceroute_utils.h`),
   - main execution logic (`main.cpp`).
